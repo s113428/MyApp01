@@ -1,7 +1,7 @@
 MyApp01
 =======
-Androidアプリ開発に関する参考サイトを次のサイトにまとめました。
-DropBox : http://urx.nu/ep9O
+Androidアプリ開発に関する参考サイトを次のサイトにまとめました。  
+DropBox : http://urx.nu/ep9O  
 
 *プロジェクト紹介*  
 チーム劣等生でAndroidアプリを作るプロジェクトです。  
