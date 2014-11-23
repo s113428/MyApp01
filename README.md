@@ -15,4 +15,4 @@ DropBox : http://urx.nu/ep9O
 1.  開発をする前に必ずRebaseを行う。(バージョン管理→Git→Rebase my GitHub fork)
 2.  コンフリクトが起こった場合は、自分で直すか藤川まで連絡下さい。  
 3.  大幅に仕様を変更するときは必ずBranchを切ること。  
-4.  出来る限り最小単位でCommitして、頻繁にHPullRequestをする。
+4.  出来る限り最小単位でCommitして、頻繁にPullRequestをする。
